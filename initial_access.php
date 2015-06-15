@@ -1,8 +1,19 @@
 <?php
 
-$file = 'youtube.xml';
-$newfile = 'youtube-cinesport.xml';
+$xml = simplexml_load_file('youtube.xml');
+// $iterator = new SimpleXmlIterator($xml->asXML());
+// $iterator->rewind();
 
-copy($file, $newfile);
+foreach ($xml->entry as $entry) {
+    echo $entry->title;
+    echo "<br />";
+}
+
+// echo var_dump($iterator->key());
+echo 'hello';
+
+// $newfile = 'youtube-cinesport.xml';
+
+// copy($file, $newfile);
 
 ?>

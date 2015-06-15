@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCGEU5Xa_5HKMb6gEFfGYdTw"/>
+ <id>yt:channel:UCGEU5Xa_5HKMb6gEFfGYdTw</id>
+ <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+ <title>Wallstrip</title>
+ <link rel="alternate" href="http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw"/>
+ <author>
+  <name>Wallstrip</name>
+  <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+ </author>
+ <published>2006-10-13T03:31:19+00:00</published>
+ <entry>
+  <id>yt:video:EZYSfM9Wuac</id>
+  <yt:videoId>EZYSfM9Wuac</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>Auto Bailout</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=EZYSfM9Wuac"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-12-11T02:13:14+00:00</published>
+  <updated>2015-05-22T00:15:19+00:00</updated>
+  <media:group>
+   <media:title>Auto Bailout</media:title>
+   <media:content url="https://www.youtube.com/v/EZYSfM9Wuac?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/EZYSfM9Wuac/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Does the auto industry deserve a bailout?</media:description>
+   <media:community>
+    <media:starRating count="57" average="4.23" min="1" max="5"/>
+    <media:statistics views="28009"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eMgJRDSDJOU</id>
+  <yt:videoId>eMgJRDSDJOU</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>Negotiation</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=eMgJRDSDJOU"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-12-10T04:55:14+00:00</published>
+  <updated>2014-09-05T00:49:04+00:00</updated>
+  <media:group>
+   <media:title>Negotiation</media:title>
+   <media:content url="https://www.youtube.com/v/eMgJRDSDJOU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eMgJRDSDJOU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>To close the deal you have to put those negotiating skills to work.</media:description>
+   <media:community>
+    <media:starRating count="58" average="4.52" min="1" max="5"/>
+    <media:statistics views="20560"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:YCHcRFM209w</id>
+  <yt:videoId>YCHcRFM209w</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>Algae</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=YCHcRFM209w"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-12-07T21:13:05+00:00</published>
+  <updated>2015-05-10T15:45:54+00:00</updated>
+  <media:group>
+   <media:title>Algae</media:title>
+   <media:content url="https://www.youtube.com/v/YCHcRFM209w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YCHcRFM209w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>It's the biofuel of the future.</media:description>
+   <media:community>
+    <media:starRating count="40" average="4.50" min="1" max="5"/>
+    <media:statistics views="6394"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:qBkz5cLjLeE</id>
+  <yt:videoId>qBkz5cLjLeE</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>James Pinkerton</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=qBkz5cLjLeE"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-12-05T02:49:03+00:00</published>
+  <updated>2015-03-03T08:33:42+00:00</updated>
+  <media:group>
+   <media:title>James Pinkerton</media:title>
+   <media:content url="https://www.youtube.com/v/qBkz5cLjLeE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qBkz5cLjLeE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>James Pinkerton is a political analyst who served on the White House staff of Ronald Reagan and George H.W. Bush before becoming a senior advisor to the Mike Huckabee campaign. He shares his thoughts on the financial crisis.</media:description>
+   <media:community>
+    <media:starRating count="23" average="4.83" min="1" max="5"/>
+    <media:statistics views="2063"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oYC25oNTx9o</id>
+  <yt:videoId>oYC25oNTx9o</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>Your Bailout</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=oYC25oNTx9o"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-12-03T05:43:07+00:00</published>
+  <updated>2014-08-27T21:56:45+00:00</updated>
+  <media:group>
+   <media:title>Your Bailout</media:title>
+   <media:content url="https://www.youtube.com/v/oYC25oNTx9o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oYC25oNTx9o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>What's your price?</media:description>
+   <media:community>
+    <media:starRating count="34" average="5.00" min="1" max="5"/>
+    <media:statistics views="2161"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yE3ZiqB0SaE</id>
+  <yt:videoId>yE3ZiqB0SaE</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>Black Friday</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=yE3ZiqB0SaE"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-11-25T20:55:18+00:00</published>
+  <updated>2014-08-27T21:57:02+00:00</updated>
+  <media:group>
+   <media:title>Black Friday</media:title>
+   <media:content url="https://www.youtube.com/v/yE3ZiqB0SaE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yE3ZiqB0SaE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The Holiday Season: when Americans everywhere unite and reflect on how to get retailers in the black. Happy Thanksgiving Wallstrippers! Safe travels!</media:description>
+   <media:community>
+    <media:starRating count="54" average="4.56" min="1" max="5"/>
+    <media:statistics views="6578"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:qT9Jw6FywOM</id>
+  <yt:videoId>qT9Jw6FywOM</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>Dow Low Can You Go?</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=qT9Jw6FywOM"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-11-22T00:19:22+00:00</published>
+  <updated>2014-08-27T21:55:48+00:00</updated>
+  <media:group>
+   <media:title>Dow Low Can You Go?</media:title>
+   <media:content url="https://www.youtube.com/v/qT9Jw6FywOM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qT9Jw6FywOM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Julie talks to the experts on Wall Street to find out just where the Dow is heading.</media:description>
+   <media:community>
+    <media:starRating count="20" average="4.60" min="1" max="5"/>
+    <media:statistics views="5840"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yTMp1Zl0eGM</id>
+  <yt:videoId>yTMp1Zl0eGM</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>Where's My Bailout?</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=yTMp1Zl0eGM"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-11-21T00:55:20+00:00</published>
+  <updated>2015-02-21T03:46:03+00:00</updated>
+  <media:group>
+   <media:title>Where's My Bailout?</media:title>
+   <media:content url="https://www.youtube.com/v/yTMp1Zl0eGM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yTMp1Zl0eGM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Brooke and Sally want some of the bailout love.</media:description>
+   <media:community>
+    <media:starRating count="61" average="4.34" min="1" max="5"/>
+    <media:statistics views="4655"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AQjQNKo-76w</id>
+  <yt:videoId>AQjQNKo-76w</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>Education Stocks</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=AQjQNKo-76w"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-11-18T20:01:26+00:00</published>
+  <updated>2014-08-27T21:55:16+00:00</updated>
+  <media:group>
+   <media:title>Education Stocks</media:title>
+   <media:content url="https://www.youtube.com/v/AQjQNKo-76w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AQjQNKo-76w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>What's an education system without profiteers? No education system at all! Apollo Group Inc. (APOL), Strayer Education Inc. (STRA), ITT Educational Services Inc. (ESI), DeVry, Inc. (DV)</media:description>
+   <media:community>
+    <media:starRating count="29" average="4.45" min="1" max="5"/>
+    <media:statistics views="4027"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wKL2YJuOmb4</id>
+  <yt:videoId>wKL2YJuOmb4</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>Polaris Industries, Inc. (PII)</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=wKL2YJuOmb4"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-11-14T20:43:16+00:00</published>
+  <updated>2014-08-27T21:55:36+00:00</updated>
+  <media:group>
+   <media:title>Polaris Industries, Inc. (PII)</media:title>
+   <media:content url="https://www.youtube.com/v/wKL2YJuOmb4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wKL2YJuOmb4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In hard times, there's one thing we can't do without: a side-by-side ATV. Polaris Industries, Inc. (PII)</media:description>
+   <media:community>
+    <media:starRating count="24" average="4.67" min="1" max="5"/>
+    <media:statistics views="4087"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fPFuYBVZ-hs</id>
+  <yt:videoId>fPFuYBVZ-hs</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>L-3 Communications (LLL)</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=fPFuYBVZ-hs"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-11-13T23:55:12+00:00</published>
+  <updated>2014-08-27T21:55:30+00:00</updated>
+  <media:group>
+   <media:title>L-3 Communications (LLL)</media:title>
+   <media:content url="https://www.youtube.com/v/fPFuYBVZ-hs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fPFuYBVZ-hs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Terrorism and defense companies: stormy lovers until kingdom come!  L-3 Communications (LLL)</media:description>
+   <media:community>
+    <media:starRating count="41" average="4.32" min="1" max="5"/>
+    <media:statistics views="12400"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6qwpUGDExic</id>
+  <yt:videoId>6qwpUGDExic</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>The Female Health Company (FHC)</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=6qwpUGDExic"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-11-10T18:43:19+00:00</published>
+  <updated>2014-08-27T21:55:29+00:00</updated>
+  <media:group>
+   <media:title>The Female Health Company (FHC)</media:title>
+   <media:content url="https://www.youtube.com/v/6qwpUGDExic?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6qwpUGDExic/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The Female Health Company manufactures, markets, and sells the female condom.</media:description>
+   <media:community>
+    <media:starRating count="20" average="4.40" min="1" max="5"/>
+    <media:statistics views="8653"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-FOersamU_c</id>
+  <yt:videoId>-FOersamU_c</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>The TJX Companies, Inc. (TJX)</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=-FOersamU_c"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-11-09T12:01:18+00:00</published>
+  <updated>2015-03-29T12:25:03+00:00</updated>
+  <media:group>
+   <media:title>The TJX Companies, Inc. (TJX)</media:title>
+   <media:content url="https://www.youtube.com/v/-FOersamU_c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-FOersamU_c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Because you don't want to overspend on dignity. The TJX Companies, Inc. (TJX)</media:description>
+   <media:community>
+    <media:starRating count="21" average="4.62" min="1" max="5"/>
+    <media:statistics views="6989"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QSNVEt3h0es</id>
+  <yt:videoId>QSNVEt3h0es</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>The Dollar</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=QSNVEt3h0es"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-11-09T11:43:16+00:00</published>
+  <updated>2014-08-27T21:54:50+00:00</updated>
+  <media:group>
+   <media:title>The Dollar</media:title>
+   <media:content url="https://www.youtube.com/v/QSNVEt3h0es?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QSNVEt3h0es/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hey, at least its not the Krona.</media:description>
+   <media:community>
+    <media:starRating count="42" average="4.24" min="1" max="5"/>
+    <media:statistics views="7541"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zFz7wuPM6M8</id>
+  <yt:videoId>zFz7wuPM6M8</yt:videoId>
+  <yt:channelId>UCGEU5Xa_5HKMb6gEFfGYdTw</yt:channelId>
+  <title>Wallstrip Halloween</title>
+  <link rel="alternate" href="http://www.youtube.com/watch?v=zFz7wuPM6M8"/>
+  <author>
+   <name>wallstrip</name>
+   <uri>http://www.youtube.com/channel/UCGEU5Xa_5HKMb6gEFfGYdTw</uri>
+  </author>
+  <published>2008-11-01T01:07:21+00:00</published>
+  <updated>2014-08-27T21:55:11+00:00</updated>
+  <media:group>
+   <media:title>Wallstrip Halloween</media:title>
+   <media:content url="https://www.youtube.com/v/zFz7wuPM6M8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zFz7wuPM6M8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Julie scares the unsuspecting citizens of New York.</media:description>
+   <media:community>
+    <media:starRating count="33" average="4.76" min="1" max="5"/>
+    <media:statistics views="4251"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

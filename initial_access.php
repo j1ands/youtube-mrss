@@ -5,7 +5,8 @@ $xml = simplexml_load_file('youtube.xml');
 // $iterator->rewind();
 
 foreach ($xml->entry as $entry) {
-    echo $entry->title;
+    echo $entry->children('media', true)->group->content->attributes();
+    // echo $entry->media:group;
     echo "<br />";
 }
 

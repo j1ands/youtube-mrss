@@ -1,20 +1,13 @@
 <?php
 
-$xml = simplexml_load_file('youtube.xml');
-// $iterator = new SimpleXmlIterator($xml->asXML());
-// $iterator->rewind();
+$xml = new DOMDocument();
+$xml->load('youtube.xml');
+$xml->save('youtube-cinesport-doc.xml');
 
-foreach ($xml->entry as $entry) {
-    echo $entry->children('media', true)->group->content->attributes();
-    // echo $entry->media:group;
-    echo "<br />";
+$entries = $xml->getElementsByTagName('entry');
+
+for ($i = 0; $i < $entries->length; $i++) {
+    echo $entries->item($i)->nodeValue;
 }
-
-// echo var_dump($iterator->key());
-echo 'hello';
-
-// $newfile = 'youtube-cinesport.xml';
-
-// copy($file, $newfile);
 
 ?>

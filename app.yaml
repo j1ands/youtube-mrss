@@ -1,0 +1,21 @@
+application: pure-toolbox-99121
+version: 1
+runtime: php55
+api_version: 1
+module: default
+
+handlers:
+- url: /docs
+  static_dir: docs
+  application_readable: true
+  
+- url: /getvideo
+  script: getvideo/getvideo.php
+  
+- url: /cron
+  script: /cron/job.php
+  login: admin
+  
+- url: /.*
+  script: youtube.php
+  login: admin

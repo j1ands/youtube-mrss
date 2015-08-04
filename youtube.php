@@ -1,3 +1,3 @@
 <?php
-  echo 'Youtube MRSS with Downloadble Videos';
+  echo 'Youtube MRSS with Downloadable Videos';
 ?>
